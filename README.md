@@ -11,3 +11,9 @@ Oyun 5 bölümden oluşuyor. Yön tuşları ve ( w a s d ) tuşları ile kırmı
 
 
 ![Bölümler](ss2.png)
+
+## OYUNU OYNAMAK İÇİN
+Oyunu oynamak için index.html dosyasını web tarayıcınızda çalıştırmanız yeterli.
+
+## OYUNUN AÇIKLAMASI İÇİN YOUTUBE LİNKİ
+
