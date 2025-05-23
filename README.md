@@ -8,3 +8,6 @@ Oyun 5 bölümden oluşuyor. Yön tuşları ve ( w a s d ) tuşları ile kırmı
 
 ## OYUN İÇİNDEN FOTOĞRAFLAR 
 ![Bölüm 1](ss1.png)
+
+
+![Bölüm 2](ss2.png)
