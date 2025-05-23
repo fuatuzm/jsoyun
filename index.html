@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bind Clone</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #2b3539;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    canvas {
+      display: block;
+      image-rendering: pixelated;
+      box-shadow: 0 0 100px #99aaaa55;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="gameCanvas"></canvas>
+
+  <!--  Oyun müziği eklendi -->
+  <audio id="backgroundMusic" src="oyunmüzik.mp3" autoplay loop></audio>
+  
+  <audio id="moveSound" src="click.mp3"></audio>
+
+
+  <!--  Tıklamayla müziği başlat -->
+  <script>
+    document.addEventListener("keydown", function () {
+      const music = document.getElementById("backgroundMusic");
+      if (music.paused) {
+        music.play();
+      }
+    });
+  </script>
+
+  <script src="game.js"></script>
+</body>
+</html>
