@@ -16,4 +16,4 @@ Oyun 5 bölümden oluşuyor. Yön tuşları ve ( w a s d ) tuşları ile kırmı
 Oyunu oynamak için index.html dosyasını web tarayıcınızda çalıştırmanız yeterli.
 
 ## OYUNUN AÇIKLAMASI İÇİN YOUTUBE LİNKİ
-
+https://www.youtube.com/watch?v=wzkx_ZFuXSQ
