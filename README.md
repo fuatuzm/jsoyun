@@ -17,3 +17,6 @@ Oyunu oynamak için index.html dosyasını web tarayıcınızda çalıştırman�
 
 ## OYUNUN AÇIKLAMASI İÇİN YOUTUBE LİNKİ
 https://www.youtube.com/watch?v=wzkx_ZFuXSQ
+
+## Oyunu oynamak için
+https://fuatuzm.github.io/jsoyun/
